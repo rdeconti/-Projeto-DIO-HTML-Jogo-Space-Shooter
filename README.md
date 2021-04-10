@@ -11,11 +11,14 @@
 # Descrição
 Nesse projeto, o desafio será criar um Space Shooter utilizando HTML, CSS e Javascript. Aprenderemos juntos a trabalhar com posicionamento no CSS e lógica de programação utilizando posicionamento com CSS, manipulação do DOM, eventListeners, e manipulação de Array.
 
-# Melhorias implementadas
-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+# Objetivo do jogo
+O joguinho criado, baseado no estilo Space Shooter, conta com uma nave para controlar e inimigos que surgem de forma aleatória. 
 
-# Melhorias futuras
-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+# Melhorias implementadas
+- Score no topo da página, 
+- Game over na tela, 
+- Botão para recomeçar o jogo
+- Score total
 
 # Exemplos de telas
 
