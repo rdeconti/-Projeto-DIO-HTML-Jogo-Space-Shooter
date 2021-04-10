@@ -1,28 +1,21 @@
-# -Projeto-DIO-HTML-Jogo-Space-Shooter
-
-:spiral_calendar: Atualizado em 03 de Março de 2021 :heart:
+:spiral_calendar: Atualizado em 10 de abril de 2021 :heart:
 
 <img align="right" alt="GIF" height="160px" src="https://github.com/rdeconti/rdeconti-resources/blob/main/Digital%20Innovation%20One%20-%20Logotipo.png" />
 
 # Projeto Digital Innovation One HTML
-# Recriando a interface do Netflix
-Este projeto foi proposto pela Digital Innovation One - Link do código original: https://github.com/felipeAguiarCode/netflix-clone
+# Criando seu jogo no estilo Space Shooter
+- Este projeto foi proposto pela Digital Innovation One - Link do código original: https://github.com/SpruceGabriela/space-shooter-dio
+- Professor: Gabriela Pinheiro
+- Aula: https://web.digitalinnovation.one/project/criando-seu-jogo-no-estilo-space-shooter/learning/d02b301c-3245-431b-a2c6-51cfa3b58ebc?back=/track/javascript-game-developer&bootcamp_id=598f2ee3-6af1-4370-a843-2cb9afe2f70f
 
 # Descrição
-Recrie a interface do principal site de streaming mundial utilizando tecnologias simples como HTML5, CSS3 e JavaScript. Nesse projeto você aprenderá: como estruturar um layout, técnicas de CSS3 com containers e variáveis, como posicionar os elementos com Flexbox e como utilizar plugins Jquery a favor da sua aplicação.
+Nesse projeto, o desafio será criar um Space Shooter utilizando HTML, CSS e Javascript. Aprenderemos juntos a trabalhar com posicionamento no CSS e lógica de programação utilizando posicionamento com CSS, manipulação do DOM, eventListeners, e manipulação de Array.
 
 # Melhorias implementadas
-- Obtive outras imagens do site TMDB https://www.themoviedb.org/?language=pt-BR
-- Crie pastas para segregar as imagens por página do site
-- Arredondei as bordas dos botões (inclusive no hover)
-- Coloquei link no botão assistir agora para ativar página de "traillers"
-- Criei página de "traillers" para exibir quatro "traillers" do YouTube
-- Configurei OWL para "traillers" e "info"
-- Coloquei link no botão "Início" do menu superior para chamar o "index.html"
-- Coloquei link no logotipo NETFLIX do menu superior para chamar o "index.html"
+- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
 # Melhorias futuras
-- Implementar back-end ou api para não ser estático
+- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
 # Exemplos de telas
 
