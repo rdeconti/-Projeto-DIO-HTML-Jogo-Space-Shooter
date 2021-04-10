@@ -15,18 +15,21 @@ Nesse projeto, o desafio será criar um Space Shooter utilizando HTML, CSS e Jav
 O joguinho criado, baseado no estilo Space Shooter, conta com uma nave para controlar e inimigos que surgem de forma aleatória. 
 
 # Melhorias implementadas
-- Score no topo da página, 
-- Game over na tela, 
+- Contadores no topo da página
 - Botão para recomeçar o jogo
-- Score total
+- Contador total
+- Contador parcial
 
 # Exemplos de telas
 
 ## Tela INICIAL
-<img src="https://github.com/rdeconti/Bootcamp-DIO-Html-Web-Projeto02/blob/main/tela-index.jpeg" />
+<img src="https://github.com/rdeconti/Projeto-DIO-HTML-Jogo-Space-Shooter/blob/main/Test-screens/tela-inicial.jpg" />
 
-## Tela TRAILLERS
-<img src="https://github.com/rdeconti/Bootcamp-DIO-Html-Web-Projeto02/blob/main/tela-traillers.jpg" />
+## Tela CONTADORES
+<img src="https://github.com/rdeconti/Projeto-DIO-HTML-Jogo-Space-Shooter/blob/main/Test-screens/tela-contadores.jpg" />
 
-## Tela MAIS INFORMAÇÕES
-<img src="https://github.com/rdeconti/Bootcamp-DIO-Html-Web-Projeto02/blob/main/tela-info.jpg" />
+## Tela RECOMEÇAR
+<img src="https://github.com/rdeconti/Projeto-DIO-HTML-Jogo-Space-Shooter/blob/main/Test-screens/tela-recome%C3%A7ar.jpg" />
+
+## Tela CONTADORES PARCIAL / TOTAL
+<img src="https://github.com/rdeconti/Projeto-DIO-HTML-Jogo-Space-Shooter/blob/main/Test-screens/tela-contador-total-parcial.jpg" />
